@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+crawl-delay:10
+
+Sitemap: http://situs-slot.praxis-network.org/sitemap.xml
